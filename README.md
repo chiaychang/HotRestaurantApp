@@ -1,13 +1,13 @@
 # HotRestaurantApp
 Manage Restaurant reservation 
 
-###/ homepage
+## /homepage
 
-two buttons 
+### two buttons 
 - view table (/tables)
 - make reservation (/reserve)
     *form/put 
-two links 
+### two links 
 - API table link (/api/tables)
 - API waitlist (/api/waitlist)
 
