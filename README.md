@@ -11,3 +11,7 @@ Manage Restaurant reservation
 - API table link (/api/tables)
 - API waitlist (/api/waitlist)
 
+npm packages:
+- express
+- body-parser
+- path
